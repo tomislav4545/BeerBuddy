@@ -1,0 +1,1294 @@
+{
+  "beer": [
+    {
+      "name": "5th Element ABA",
+      "desc": "Svaka receptura dobiva svoju istinsku moć tek kada joj se doda peti element. Uz vatru, vodu, zemlju i zrak, tek kada se doda ljubav moguća je čarolija. A čarolija je upravo ono što osjećamo kada pijemo ovaj American Blonde Ale.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/5/t/5th-element-aba_2_1_1.jpg",
+      "id": 1
+    },
+    {
+      "name": "5th Element GERWEISS",
+      "desc": "Kada vatra dodirne zemlju, naizgled uništava sve što je na njoj, ali sjeme, oslobođeno toplinom, nezaustavljivo se usmjerava prema nebu. Ova su dva elementa, karakteristična za ljetne vrućine, spojena u osvježavajuće i aromatično ljetno, pšenično pivo njemačkog stila. Kombinacija četiriju vrsta slada među kojima dominira pšenični, u najboljoj maniri predstavlja zemlju dok specijalni soj kvasca gornjeg vrenja poput vatre iz pšeničnog slada pred vas stavlja prepoznatljivu aromu pravog, njemačkog pšeničnog piva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/5/t/5th-element-gerweiss_1_3.jpg",
+      "id": 2
+    },
+    {
+      "name": "5th Element LELA",
+      "desc": "Voda je spoj vodika i kisika i jedan od osnovnih uvjeta života. 5th Element odlučio je sljubiti aLE i LAger u jedinstvenu pivsku kupažu dva pivska stila, koja uvelike određuje i voda od koje se proizvode. Dobivena je tako pivska mješavina aromatičnog i osvježavajuće aLE-a i pitkog LAgera sa sniženim sadržajem alkohola kako bi se naglasila važnost vode kojom se osvježava i gasi žeđ.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/5/t/5th-element-lela_2_1_1.jpg",
+      "id": 3
+    },
+    {
+      "name": "Augustijn Blond",
+      "desc": "Povijest ovog piva datira još iz 1295. godine. Ima dvostruku fermentaciju, odnosno kad se puni u bocu ili bačvu, doda se malo šećera i kvasca i pri temperaturi od 25 stupnjeva, fermentacijom se pojačava alkohol. Tom fermentacijom dobije se jak, pun okus. U srednjem vijeku mnogi redovnici i svećenici pili su i prodavali vlastito pivo.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/a/u/augustijn-blond_2_1_1.jpg",
+      "id": 4
+    },
+    {
+      "name": "Augustiner Edelstoff",
+      "desc": "Svijetlo pivo, gazirano i svježe u isto vrijeme, s najplemenitijim sirovinama. Ovo je visoko kvalitetni proizvod \"Stare umjetnosti bavarskog piva\". Velika poslastica za svakog pivskog stručnjaka. Sastojci: voda, ječmeni slad, hmelj.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/a/u/augustiner-edelstoff_1_1_1.jpg",
+      "id": 5
+    },
+    {
+      "name": "Augustiner Helles",
+      "desc": "Naročito blago, gazirano i odstajalo pivo, a opet osvježavajuće i lako probavljivo u isto vrijeme. Jedinstveno u svom okusu, korisno za svakog pivskog znalaca.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/a/u/augustiner-helles_1_1_1.jpg",
+      "id": 6
+    },
+    {
+      "name": "Augustiner Weissbier",
+      "desc": "Pivo spravljeno po tradicionalnim i dobro iskušanim procedurama kao i sa temeljito odabranim sirovinama. Pivo dobiva svoj jednostavan, osjetljiv i začinjen okus iz fermentacije, do pune zrelosti koju dočeka u bocama.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/a/u/augustiner-weissbier_2_1_1.jpg",
+      "id": 7
+    },
+    {
+      "name": "Ayinger Urweisse",
+      "desc": "S nizom nagrada na svjetskim natjecanjima, Urweisse je po mnogima tamno pšenično pivo broj 1 u svijetu. Tamne je jantarne boje, bogate pjene i živahne karbonizacije. Punoga sladnog tijela, uz note banane i naranče koje daje kvasac, kompleksno je, a pitko. Za sve ljubitelje pšeničnog piva, sadašnje i buduće.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/a/y/ayinger-urweisse_1_1.jpg",
+      "id": 8
+    },
+    {
+      "name": "Bavaria",
+      "desc": "Tradicija od 300 godina, svakodnevno usavršavanje i kontrola kvalitete bez kompromisa temelj su izvrsnosti Bavaria piva. Strogo čuvani tradicionalni recept, vrhunski sastojci, prirodna izvorska voda obogaćena mineralima, jamče da svaka boca Bavaria piva pruža jedinstven osvježavajući okus i doživljaj što je to pravo pivo, i kakvo bi trebalo biti!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/a/bavaria_1_1.png",
+      "id": 9
+    },
+    {
+      "name": "Becks",
+      "desc": "Becks je premium lager pivo, čuveno po čistom, svježem i osebujnom okusu. Uz to je i najprodavanije njemačko pivo u svijetu te je prisutan u 120 zemalja svijeta. Proizvodi se od 1873. godine, prema njemačkom „Zakonu o čistoći piva“, od samo četiri potpuno prirodna sastojka: ječma, hmelja, kvasca i čiste vode.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/e/becks_1_1.jpg",
+      "id": 10
+    },
+    {
+      "name": "Benediktiner Weissbier",
+      "desc": "Aroma kombinira snažne note karamele, meda i voća, a glavni među njima banana i grožđica. Svaki pjenušava gutljaj topi se na jeziku i nepcu, donoseći poseban osjećaj osvježenja.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/e/benediktiner_1_1.jpg",
+      "id": 11
+    },
+    {
+      "name": "Benediktiner Weissbier Dunkel",
+      "desc": "Benediktinski Weissbier može se osloniti na stoljetnoj tradiciji i znanju samostana Ettal. Znanje i strast isprepliću se kako bi postigli najviše savršenstvo kvalitete.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/e/benediktiner-dunkel_1_1.jpg",
+      "id": 12
+    },
+    {
+      "name": "Bernard Jantar",
+      "desc": "Nefiltrirano oporo lager pivo s finom kulturom kvasca, nepasterizirano s gorčinom u harmoniji, finom aromom karamele i ukusnom punoćom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/e/bernard-jantar_1_1.jpg",
+      "id": 13
+    },
+    {
+      "name": "Bernard Svijetlo",
+      "desc": "Lager s finom kulturom kvasca je nepasterizirano pivo s prepoznatljivim, finim okusom i mirisom. Pivo sekundarno fermentira u boci, tako da se može naći kvasac kao talog na dnu boce,tei pivo može biti lagano zamućeno tijekom konzumacije.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/e/bernard_1_1.jpg",
+      "id": 14
+    },
+    {
+      "name": "Bernard Tamno",
+      "desc": "Nefiltrirano tamno lager pivo s finom kulturm kvasca, nepasterizirano, od četiri vrste slada, naglašenog punog okusa i fine gorčine. Njegov poseban okus je ono što ga čini jedinstvenim.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/e/bernard-tamno_1_1.jpg",
+      "id": 15
+    },
+    {
+      "name": "Blanche de Namur",
+      "desc": "Oblačan izgled na niskoj temperaturi, ali nestaje kada pivo postaje sve toplije ili kada je zadržano predugo na hladnom. Fino i voćno, s mirisima začina, korijandra i gorke naranče.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/l/blanche-de-namur_3_1_1.jpg",
+      "id": 16
+    },
+    {
+      "name": "Blue Moon Belgian White",
+      "desc": "Blue Moon je osvježavajuće, prirodno mutno pšenično pivo punog okusa, servirano sa kriškom naranče. Jedinstveni okus budi radoznalost i potiče osjetila. Okus počinje resko i oštro, a završava sa pikantnim korijanderom i narančom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/l/blue-moon-belgian-white_1_1.jpg",
+      "id": 17
+    },
+    {
+      "name": "Boyne Amber Ale",
+      "desc": "Aromu karamele na nosu prati uravnoteženi, lagani karamelasti osjećaj u ustima. Korištene su suvremene raznolikosti njemačkog hmelja kako bi na stražnju stranu nepca uveli bogat karakter gorke narančine kore koji savršeno nadopunjuje okuse slada.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/o/boyne-amber-ale_1.jpg",
+      "id": 18
+    },
+    {
+      "name": "Boyne IPA",
+      "desc": "Blago maglovito, duboke zlatne boje s obilnom voćnom aromom citrusa i primjesom bora. Na nepcu su gorki citrusi i smola. Snažne strukture koja može podnijeti hmelj s dugim suhim završetkom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/o/boyne-ipa.jpg",
+      "id": 19
+    },
+    {
+      "name": "Boyne Lager",
+      "desc": "Njemački stil piva koji je poznat i pod nazivom 'Laborers Pilsner'. Ovo je savršeno uravnoteženo pivo u kojem ne dominira ni slad ni hmelj. To je duboko svijetle boje, dobra hmeljna gorčina i aroma, osjet punih usta i svjež završetak.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/o/boyne-lager.jpg",
+      "id": 20
+    },
+    {
+      "name": "Boyne Oatmeal Stout",
+      "desc": "Mastiljavo crna boja s intenzivnom aromom pečenja. Bogata pržena kava na nepcu s primjesom grožđica i suhog voća. Dodatak zobene kaše daje puni i kremasti osjećaj usta s dugim završetkom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/o/boyne-oatmeal-stout.jpg",
+      "id": 21
+    },
+    {
+      "name": "Boyne Pale Ale",
+      "desc": "Pale Ale je stil poznat koliko po svojoj aromi hmelja toliko i po gorčini hmelja i ovo pivo je klasičan primjer. Boyne Pale Ale je sa suptilnom bazom slada koja hmelju omogućava da dođe do izražaja. Prevladavajući hmelj je Australian Summer koji daje prepoznatljivu aromu ružičastog grejpa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/o/boyne-pale-ale.jpg",
+      "id": 22
+    },
+    {
+      "name": "Brewdog Dead Pony Club",
+      "desc": "Some people say slow is good. We believe fast is better. Being shot from a Howitzer beats the hell out of trotting round a paddock. That’s why the internal combustion engine got mounted on two wheels. Screw down the throttle and listen to that dull banshee howl floating back from those malted mufflers. Fuel up and hold tight, this thoroughbred kicks like a mule.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/r/brewdog-dead-pony-club_1_1_1.jpg",
+      "id": 23
+    },
+    {
+      "name": "Brewdog Punk IPA",
+      "desc": "Na nosu arome tropskog voća i lagane karamele. Na nepcu postaje uporan i smolast sa Novozelandskim hmeljom koji je uravnotežen sa sladom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/r/brewdog-punk-ipa_1_1.jpg",
+      "id": 24
+    },
+    {
+      "name": "Brewdog Vagabond Pale Ale",
+      "desc": "Vagabond Pale Ale miješa citrusne i tropske arome iz hmelja uz laganu bazu karamel slada, i potporu grube smolaste gorčine. Pivo je 100% od sladnog ječma, američkih sorti hmelja, čiste škotske vode i brewdog kvascem, Vagabondu nedostaje samo jedno - gluten.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/r/brewdog-vagabond-pale-ale_1_1.jpg",
+      "id": 25
+    },
+    {
+      "name": "Brlog Neposlušna",
+      "desc": "Pet vrsta ječmenog slada, zob, tri vrste hmelja, voda i kvasac zaslužni su za ovo pivo s voćnom i karameliziranom notom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/r/brlog-neposlusna_1.jpg",
+      "id": 26
+    },
+    {
+      "name": "Brlog Plavuša",
+      "desc": "Pivo iz zadružne pivovare Brlog je prirodno, proizvodi se bez aditiva, nepasterizirano je i nefiltrirano. Zove se Plavuša, po samoj blond ale vrsti piva kojoj pripada, a koja je jedna od zahtjevnijih za proizvodnju.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/r/brlog-plavusa_1_1_1.jpg",
+      "id": 27
+    },
+    {
+      "name": "Budweiser Dark",
+      "desc": "Ovo pivo okarakterizirano je izrazito tamne boje te sa suhim i blago gorkim okusom karamele bez dominantne slatkoće.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/u/budweiser-dark_1_1_1.jpg",
+      "id": 28
+    },
+    {
+      "name": "Budweiser Original",
+      "desc": "Ovo premium lager pivo proizvedeno je isključivo od najfinijih sastojaka- vrhunskih šišarki hmelja iz Saaza, biranog moravskog ječmenog slada te posebne originalne kulture kvasca i izvorske vode iz trista metara dubokih arteških bunara. Termin Budějovické pivo (Budweiser Bier) zaštićen je oznakom zaštićenoga zemljopisnog podrijetla (PGI) koja jamči kvalitetu, uporabu biranih sirovina, originalne procese proizvodnje i tradicionalno mjesto podrijetla. Oznaka ujedno znači da pivo ne može biti proizvedeno nigdje drugdje osim u Českim Budějovicama. Proces proizvodnje traje više od sto dana, uključujući devedeset dana razdoblja odležavanja.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/u/budweiser-original_1_1.jpg",
+      "id": 29
+    },
+    {
+      "name": "Bura Brew Hurricane IPA",
+      "desc": "Pivo gornjega vrenja u IPA stilu, lagana i osvježavajuća zahvaljujući umjerenom udjelu alkohola no istovremeno kompleksna i ugodno aromatična zbog velike količine hmelja upotrijebljene i prilikom kuhanja i prilikom primjene metode hmeljenja dry hopping. Bijele, kremaste i postojane pjene. Laganog do umjerenog tijela. Lagana gaziranost. Za razliku od Bura Brew Tornado IPA, kod Hurricane IPA prevladava značajnija i veća količina hmelja iz kojeg proizlaze note zelenila i tropskoga voća čime se postiže uragan okusa, s produljenom i odlučnom završnom gorčinom. Nefiltracija i refermentacija u boci mogu prouzrokovati prirodni talog kvasca na dnu boce koji jamči za istinski i profinjeni okus.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/u/bura-brew-hurricane-ipa.jpg",
+      "id": 30
+    },
+    {
+      "name": "Bura Brew Optimist Golding Ale",
+      "desc": "Svijetlo pivo gornje fermentacije. Nepasterizirano, nefiltrirano, sa fermentacijom u boci, bez aditiva i konzervansa. Vrlo pitko, na početku slatko od ječmenog slada te gorčina koja dolazi odmah poslije. Optimist je mali čamac koji djeca koriste kada žele naučiti jedriti ,koji ide polako, ali može doći prilično daleko.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/u/bura-brew-optimist-golding-ale_1_1.jpg",
+      "id": 31
+    },
+    {
+      "name": "Bura Brew Redsand Amber Ale",
+      "desc": "Pivo gornje fermentacije. Nepasterizirano, nefiltrirano, s fermentacijom u boci, bez aditiva i konzervansa. Pivo spravljeno sa strašću uz 4 vrste ječmenog slada i udjelom od 7% pšenice. Prekrasna crvena boja piva podsjeća na boju istarskog tla.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/u/bura-brew-red-sand-ale_1_1.jpg",
+      "id": 32
+    },
+    {
+      "name": "Bura Brew Tornado IPA",
+      "desc": "Pivo gornje fermentacije, nepasterizirano, nefiltrirano, sa fermentacijom u boci, bez aditiva i konzervansa. Pivo sa strašću, uz posebnost što je Istarska reinterpretacija IPA stila. Ova IPA se ne fokusira samo na svojim različitim vrstama hmelja (Amarillo, East Kent, Goldings, Chinook), već i na tri vrste ječmenog slada. Rezultat je \"tornado\" okusa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/u/bura-brew-tornado-ipa_1_1.jpg",
+      "id": 33
+    },
+    {
+      "name": "Carlsberg",
+      "desc": "Carlsberg je internacionalno premium pivo iznimne kvalitete i prepoznatljiva okusa koje se prodaje u više od 140 zemalja širom svijeta. Od 2003. Hrvatska postaje jedna od zemalja Carlsbergovog svijeta prijatelja. Milijuni ljudi diljem svijeta prepoznaju njegov ne previše jak, ali upravo dovoljno razvijen okus i pun okus. Proizvodi se od vode, hmelja, slada i posebne vrste kvasca saccharomyces carlsbergensis. Njegova posebna kvaliteta proizlazi iz duge tradicije stručnosti u pravljenju piva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/a/carlsberg-danish-pilsner.jpg",
+      "id": 34
+    },
+    {
+      "name": "Chef's Beer",
+      "desc": "Pivo s umjetničkim potpisom, nastalo iz jedinstvene suradnje pivara, vinara i chefa vrhunske kuhinje, nastalo kombiniranjem najfinijih sastojaka, majstorske vještine i stoljetne tradicije… s modernim zaokretom. Kompleksno pivo, punoga sladnog tijela, relativno visokoga udjela alkohola, sa savršeno izbalnsiranim voćnim, slatkastim i drvenastim aromama. Ipak, neopisivo u potpunosti jer je zamišljeno kao dio gastronomskog iskustva. U sljubljivanju s hranom, u uzbudljivoj igri iskakanja, prelijevanja i zaokruživanja okusa, ovo pivo ispunjava ideju od koje je poteklo. Pivo Chef´s beer osvojilo je zlatnu medalju na natjecanju European beer challenge (London, UK) u studenome 2020. Suradnja Varionica craft brewery s BIBICh WINE CROATIA, Barut Brewing and Blending, Mate Janković i Zmajska pivovara.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/h/chefs-beer.jpg",
+      "id": 35
+    },
+    {
+      "name": "Chimay Blue",
+      "desc": "Chimay Blue prvenstveno se razlikuje po svom karakteru jakog piva. To je pivo čiji je miris svježeg kvasca sa laganim, cvjetnim dodirom posebno ugodan. Njegov okus, primjetan kod kušanja, samo naglašava ugodnu senzaciju percipirane u aromi, dok otkrivaju lagan, ali ugodan dodir pečenog slada.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/h/chimay-blue_1_1_1.jpg",
+      "id": 36
+    },
+    {
+      "name": "Chimay Red",
+      "desc": "Chimay Red bio je prvo pivo spravljeno u Notre-Dame de Scourmont opatiji od strane trapist očeva 1862. Njegov trenutni recept je izrađen od strane oca Theodorea kada je ponovno pivovara nakon Drugog svjetskog rata počela s radom. Bio je izravno inspiriran izvornim receptima s početaka pivovare.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/h/chimay-red_2_1_1.jpg",
+      "id": 37
+    },
+    {
+      "name": "Chimay White",
+      "desc": "Chimay White, sa svojom tipičnom zlatnom bojom, svojim pomalo maglovitim izgledom i finom pjenom posebno karakterizira njegovu aromu koja proizlazi iz kombinacije svježeg hmelja i kvasca. Aroma piva, osjetno dolazi od mirisa hmelja: prije svega to su voćne note muškata i grožđica koji daju ovom pivu posebno atraktivan miris.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/h/chimay-white_2_1_1.jpg",
+      "id": 38
+    },
+    {
+      "name": "Chouffe Houblon",
+      "desc": "Jedinstven spoj između engleske tradicije IPA, nove američke revolucije Imperial IPA i klasičnog belgijskog načina proizvodnje piva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/h/o/houblon-chouffe_1_1.jpg",
+      "id": 39
+    },
+    {
+      "name": "Corona Extra",
+      "desc": "Corona Extra proizvodi se u Meksiku, te su posebnog okusa i osvježavajuće arome. Danas se Corona Extra pivo pije u preko 200 zemalja širom svijeta, a po svjetskoj potrošnji piva Corona Extra zauzima visoko 4. mjesto. Preporučena konzumacija: rashlađeno, s limetom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/o/corona-extra_1_1.jpg",
+      "id": 40
+    },
+    {
+      "name": "Corsendonk Agnus",
+      "desc": "Agnus je proizveden od 93% ječmenog slada i 7% pšenice, te mješavine finih hmeljeva (Styrian G., Hallertau H., Kent Challenger). Na početku se osjeća suha i blaga citrusna voćnost, a delikatan, mirisni hmeljni karakter na završetku. Vrlo nježno i pitko za takvu jačinu piva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/o/corsendonk-agnus.jpg",
+      "id": 41
+    },
+    {
+      "name": "Corsendonk Pater",
+      "desc": "Pater je 1982. lansiran od strane Jef Keersmaekers-a kao „Pater Noster“ a oduvijek se proizvodi u pivovari Du Bocq. Proizvedeno je od tri vrste slada i tri vrste hmelja (Saaz, Kent, Hallertau) i radi se o tamnom pivu gornje fermentacije s refermentacijom i dozrijevanjem u boci, koje je vrlo pjenušavo i bogate pjene.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/o/corsendonk-pater.jpg",
+      "id": 42
+    },
+    {
+      "name": "Crabbies Original",
+      "desc": "Crabbies Original je osvježavajuće, svjetlo đumbirovo pivo s pikantnim okusom svježeg đumbira, notama citrusa i toplim završetkom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/r/crabbies-original_1_1.jpg",
+      "id": 43
+    },
+    {
+      "name": "Crafter's Escape",
+      "desc": "Tradicionalna engleska receptura začinjena plemenitim europskim i američkim hmeljevima otkriva nam nove pivske svjetove. Lagano sladno tijelo obogaćeno citrusom čini ovo pivo prigodnim za svaki dio dana.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/r/crafters-escape.jpg",
+      "id": 44
+    },
+    {
+      "name": "Crafter's Swing",
+      "desc": "Avantura boje i okusa u čaši. Skladna kombinacija blago karamelastog tijela sljubljenog s citrusnim i tropskim voćnim notama dobivenim korištenjem probranih vrsta hmelja.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/r/crafters-swing.jpg",
+      "id": 45
+    },
+    {
+      "name": "Delirium Nocturnum",
+      "desc": "U početku, vrlo ugodan okus u ustima alkohola i mekoće. Nakon toga slijedi sve veća gorčina, dijelom iz hmelja, ali i iz pečenog slada i čokolade. Potkraj lijepa ravnoteža između gorčine, kiselog i slatkog.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/d/e/delirium-nocturnum_1_2.jpg",
+      "id": 46
+    },
+    {
+      "name": "Delirium Tremens",
+      "desc": "Osjećaj je kao zvuk udara alkohola kako potpaljuje usta. U stvarnosti grije jezik i nepce. Okus karakterizira zaokruženost. Aftertaste je jak, dugotrajan i suho gorak.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/d/e/delirium-tremens_1_2.jpg",
+      "id": 47
+    },
+    {
+      "name": "Desperados",
+      "desc": "Desperados je prvo pivo s okusom tekile. Vrlo osvježavajuće, zlatne boje i bogato lager pivo s dodatnim udarcem i egzotikom s tekila aromom. Preporučljivo konzumirati iz boce.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/d/e/desperados_1_1_1.jpg",
+      "id": 48
+    },
+    {
+      "name": "Dupont Saison",
+      "desc": "Saison Dupont je pivo gornje fermentacije (Ale) s refermentacijom u boci, a smatra se “klasikom” među belgijskim pivima Saison stila. Svijetlo bakrene boje, finih aroma koje proizlaze iz korištenog kućnog kvasca, te naglašene gorčine, ovo pivo je idealan gasitelj žeđi. Kompleksno i vrlo aromatično pivo.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/a/saison-dupont.jpg",
+      "id": 49
+    },
+    {
+      "name": "Duvel",
+      "desc": "Duvel je prirodno pivo sa suptilne gorčine, rafiniranog okusa i osebuja hop karaktera. Jedinstven proces proizvodnje piva, koji traje oko 90 dana, jamči čisti karakter, nježno pjenušanje i ugodan slatki okus alkohola. Tim stručnjaka provjerava proces dnevno pomoću analize okusa, ali tek nakon 90 dana, kada je pivo postiglo svoju bogatu paletu okusa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/d/u/duvel_1_1_1.jpg",
+      "id": 50
+    },
+    {
+      "name": "Eagle Banana Bread Beer",
+      "desc": "Ovo jedinstveno pivo objedinjuje sve tradicionalne osobine i stil Eagle pivovare uz suptilni okus banane. Eagle Banana Bread Beer je omiljeno pivo u Engleskoj, te je postiglo velik broj priznanja.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/e/a/eagle-banana-bread-beer.jpg",
+      "id": 51
+    },
+    {
+      "name": "Eagle Bombardier",
+      "desc": "Bombardier je definitivno Engleski \"Bitter\", savršeno uravnotežen suhom osobnošću.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/e/a/eagle-bombardier.png",
+      "id": 52
+    },
+    {
+      "name": "Erdinger Dunkel",
+      "desc": "Dunkel je bogato i uglađeno pšenično pivo specijalitet iz Erdingera. Svoj puni okus duguje finom hmelju i tamnom sladu koji se koristi u proizvodnji. Kao i sva Erdinger pšenična piva i ovo tamno također dobiva svoj tipičan okus od sazrijevanja u boci. Dugogodišnje iskustvo piva zajedno sa tehnologijom jamči izvrsnu kvalitetu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/e/r/erdinger-dunkel.jpg",
+      "id": 53
+    },
+    {
+      "name": "Erdinger Urweisse",
+      "desc": "Osobito jaka, pikantna aroma, osebujan okus kvasca te nepogrešivo vrhunski fermentirano pivo - to su osobine člana obitelji Erdinger u dobroj, staroj, bavarskoj tradiciji. Recept za Urweisse datira u pivovari još od osnivačkih dana, preko 120 godina.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/e/r/erdinger-urweisse_1_1_1.jpg",
+      "id": 54
+    },
+    {
+      "name": "Erdinger Weissbier",
+      "desc": "Erdinger Weissbier nije samo neupitni klasik u asortimanu Erdinger, to je također vrlo jednostavno pšeenično pivo u pravom smislu riječi. Samo najfiniji sastojci se koriste u proizvodnji. Godine iskustva i stalne provjere kvalitete jamče pivu nepogrešiv okus.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/e/r/erdinger-weissbier_1_1.jpg",
+      "id": 55
+    },
+    {
+      "name": "Estrella Damm",
+      "desc": "This beer is the jewel in the crown of Damm’s century-long beer-brewing experience. Since 1876, when Alsatian August Kuentzmann Damm founded the company bearing his name, numerous generations of master brewers have perfected this lager until it has become a landmark in the world of beers. This lager beer with a universally appreciated character and taste is ideal for drinking at any time. Its high quality is due to the finest selection of raw materials and the meticulous brewing process. It stands out for its creamy hops-flavoured froth and refreshing taste.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/e/s/estrella-damm_1_1.jpg",
+      "id": 56
+    },
+    {
+      "name": "Estrella Damm Daura",
+      "desc": "Estrella je razvio prvo pivo bez glutena. Daura održava okus pravog piva sa istim glavni sastojcima: ječmom i sladom. Tijekom faze proizvodnje lanac glutena je probijena proces hidrolize, radi dobivanja konačnog proizvoda koji je pogodan za osobe koje boluju od celijaklije.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/e/s/estrella-damm-daura_1_1.jpg",
+      "id": 57
+    },
+    {
+      "name": "Franziskaner Weissbier Naturtrub",
+      "desc": "Originalan svježi pšenični okus pive. Prirodno i elegantno Bavarsko pivo s bogatom bijelom pjenom. Zlatno pšenično pivo se otkriva uz aromatičan miris te note banana i citrusnog voća.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/f/r/franziskaner-weissbier-naturtrub.jpg",
+      "id": 58
+    },
+    {
+      "name": "Fuller's India Pale Ale",
+      "desc": "Inspirirana klasičnim IPA-ma iz prošlosti, Fuller's IPA je osvježavajuće pivo sa začinskim hmeljnim karakterom. Kao i prethodnici iz 19. stoljeća koji su se izvozili na istok, ovo svijetlo Ale pivo je također predodređeno za strana tržišta. Svijetlo-jantarne je boje i zemljanih i hmeljnih aroma. Na nepcu se osjeti citrusni karakter (naranča) kojeg slijede cvjetne i začinske note, dok na zadovoljavajućem završetku dominira blaga gorčina.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/f/u/fullers-india-pale-ale_1_1_1.jpg",
+      "id": 59
+    },
+    {
+      "name": "Fuller's London Pride",
+      "desc": "London Pride je mekano i nevjerojatno kompleksno pivo s karakterističnom sladnom bazom koja je dopunjena bogatom ravnotežom razvijenih hmeljnih aroma koje proizlaze od poznatih hmeljeva Target, Challenger i Northdown.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/f/u/fullers-london-pride_1_1_1.jpg",
+      "id": 60
+    },
+    {
+      "name": "Fullers Black Cab Stout",
+      "desc": "Proizvedeno znanjem najstarije londonske obiteljske pivovare, „Black Cab“ je bogati, tamni stout koji vas „vozi“ do vremena kad je London bio slavan po svojim stout pivima (19. stoljeće). To je pivo koje kombinira pet različitih sladova, od kojih su neki neki jako prženi i daju pivu crnu boju. Ispod te tamne vanjštine se ističu „luksuzne“ note crvenih bobica, pržene arome s naznakama kave i čokolade, a sve kulminira suhim i gorkastim završetkom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/f/u/fullers-black-cab-stout_1_1.jpg",
+      "id": 61
+    },
+    {
+      "name": "Fullers London Porter",
+      "desc": "London Porter je naširoko smatran najboljim svjetskim porter pivom. Bogat, taman i kompleksan, izuzetne je dubine okusa i mirisa – tamna čokolada, kava i bobičasto voće. Kremoznost dolazi od mješavine sladova (smeđi, Crystal, čokoladni), sve skupa uravnoteženo tradicionalnim Fuggles hmeljom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/f/u/fullers-london-porter_1_1.jpg",
+      "id": 62
+    },
+    {
+      "name": "Garden Brewery India Pale Ale",
+      "desc": "Inspirirana IPA-ma američkog sjeveroistoka. Boja je jantarna s bogatom pjenom, a aroma odmah odaje note borovine, breskve i marakuje. Na paleti okusa izdvajaju se marelica te naranča, a dobro ujednačena gorčina upotpunjena je slatkoćom južnopacifičkog hmelja i jedinstvenog kvasca. Vrlo pitka IPA punog okusa i srednje karbonizacije.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/g/a/garden-brewery-india-pale-ale_1_1_1.jpg",
+      "id": 63
+    },
+    {
+      "name": "Garden Brewery Pale Ale",
+      "desc": "Pivo je tamno zlatne boje s bogatom pjenom. Aromom dominiraju mandarina i dinja, praćene ugodnom slatkoćom, dok citrusi i karamela daju laganu gorčinu koja traje. Savršeno izbalansirano, osvježavajuće pivo punog okusa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/g/a/garden-brewery-pale-ale_1_1_1.jpg",
+      "id": 64
+    },
+    {
+      "name": "Garden Brewery Stout",
+      "desc": "Tamni mliječni breakfast stout. Tamna boja, gotovo poput kreme od kave upotpunjuje se s aromama bourbona, koje proizlaze iz čokoladnog i tamnog prženog slada. Puni okus s malom ili srednjom gorčinom i niskom karbonizacijom, pri čemu do izražaja dolaze okusi kave, čokolade, tamne karamele i bourbona.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/g/a/garden-brewery-stout_1_1.jpg",
+      "id": 65
+    },
+    {
+      "name": "Grimbergen Blanche",
+      "desc": "Grimbergen Blanche je weiss pivo belgijskog stila i tradicije, svijetložutih tonova i glatke kremaste pjene. Njegov osvježavajući okus nastaje kombinacijom žutog voća, limuna, klinčića, korijandera i bergamota.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/g/r/grimbergen-blanche_1_1.jpg",
+      "id": 66
+    },
+    {
+      "name": "Grimbergen Blonde",
+      "desc": "Grimbergen Blonde je svijetlo i iznimno pitko ale pivo s okusom zrelog žutog voća i pikantnim notama klinčića, koje se ističe gustom pjenom kremaste boje. Jedinstvenim ga čini kombinacija slatkog korijena, ananasa, marelica i žutih šljiva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/g/r/grimbergen-blonde_1_1.jpg",
+      "id": 67
+    },
+    {
+      "name": "Grimbergen Double-Ambree",
+      "desc": "Grimbergen Double-Ambree je ale pivo tamnije boje i slatko-kiselog okusa karamele i sušenih šljiva, nastalo dvostrukom fermentacijom nekoliko vrsta hmelja i slada. Ovo tamno pivo odlikuje se suptilnim tonovima rubin crvene boje te bogatom kremastom pjenom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/g/r/grimbergen-double-ambree_1_1.jpg",
+      "id": 68
+    },
+    {
+      "name": "Guinness Extra Stout",
+      "desc": "Guinness je pivo „gornjeg“ vrenja (engl. stout) s okusom prženog ječma, a poznato je po svojoj tamnoj boji i kremastoj pjeni. Guinness je najprodavaniji stout na svijetu, a dostupan je u više od sto pedeset zemalja diljem globusa gdje se svakodnevno konzumira više od deset milijuna čaša toga piva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/g/u/guinness_1_1.jpg",
+      "id": 69
+    },
+    {
+      "name": "Gulden Draak",
+      "desc": "Ovo pivo „Zlatni zmaj“ dobilo je ime po zlatnoj statui na vrhu zvonika crkve u gradu Gentu. Proizvodi ga pivovara Van Steenberge, a radi se o popularnom jakom tamnom pivu, vrlo bogatog i karakterističnog okusa, koje jedne podsjeća na čokoladu, a druge na kavu. Visoko je fermentirano, a refermentira i u boci.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/g/u/gulden-draak_2_1_1.jpg",
+      "id": 70
+    },
+    {
+      "name": "Gulden Draak 9000 Quadrupel",
+      "desc": "Uz dodatni slad, nova receptura, na temelju 3 različitih slada, daje ovom pivu duboku zlatnu boju jantara i voćni miris. Zajedno s glatkim i suptilnim slatkim okusom osigurava predivno ostvaren buke.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/g/u/gulden-draak-9000-quadrupel_1_1.jpg",
+      "id": 71
+    },
+    {
+      "name": "Hacker-Pschorr Munchner Kellerbier",
+      "desc": "Kremasto i gazirano, klasično nefiltrirano pivo, divne delikatne teksture. Arome karamele, meda i šljiva dominiraju i naglašavaju pivski slad i njegovu pikantnu aromu. Nepogrešive naznake jabuke i grejpa dolaze u voćnoj svježini.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/h/a/hacker-pschorr-muenchner-kellerbier_1_1.jpg",
+      "id": 72
+    },
+    {
+      "name": "Hacker-Pschorr Munich Gold",
+      "desc": "Munich Gold počinje s punoćom okusa, dok kasnije dolazi nešto više gorka nota koja završava u pikantnom završetku. Pravi osjet okusa za istinske pivske znalce!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/h/a/hacker-pschorr-munich-gold_1_1.jpg",
+      "id": 73
+    },
+    {
+      "name": "Hacker-Pschorr Weisse",
+      "desc": "Predivno osvježavajuće, arome voćna i citrusa u pratnji fine, osebujne kiselosti. Lagana slatkoća banane i meda topi se na jeziku, zajedno s blago gorkom, malo pikantnom notom muškatnog oraščića.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/h/a/hacker-pschorr-weisse_1_1.jpg",
+      "id": 74
+    },
+    {
+      "name": "Heineken",
+      "desc": "Vjerovatno najpoznatije svjetsko pivo jer je dostupno u čak 170 zemalja. Proizvodi se od davne 1873. godine, a svoj jedinstven okus duguje posebnoj vrsti kvasca dok je posebna zlatna boja rezultat posebne vrste ječma.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/h/e/heineken_1_1.jpg",
+      "id": 75
+    },
+    {
+      "name": "Hoegaarden",
+      "desc": "Hoegaarden je jedinstveno pšenično pivo iz Belgije. Nastalo je u istoimenoj pivovari davne 1445. godine. Proizvodi se na poseban način koji je godinama usavršavan. Hoegaarden prolazi kroz jedinstven i izuzetno složen proces proizvodnje nakon čega se pivo refermentira što mu daje poseban izgled. Osvježavajuće, pomalo neobično, i potpuno drugačije – jednostavno prirodno.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/h/o/hoegaarden_1_1.jpg",
+      "id": 76
+    },
+    {
+      "name": "Holsten",
+      "desc": "Holsten je pivo vrhunske kvalitete spravljeno prema posebnoj njemačkoj recepturi zbog čega predstavlja pravi izbor za iskusnog potrošača koji traži pravu vrijednost za svoj novac. Karakterizira ga bogata tradicija koja seže u daleku 1879. Holsten je osvježavajuće i lagano lager pivo na bazi ječmenog slada. Zlatno je žute boje, a u njegovom okusu prevladava bogatstvo i slatkoća ječma, uz blagu gorčinu koja u ustima ostaje nakon ispijanja.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/h/o/holsten_1_1_1.jpg",
+      "id": 77
+    },
+    {
+      "name": "Houblon Blonde Ale",
+      "desc": "Svijetlo ale pivo male lokalne pivovare iz zagrebačke Dubrave, svježih i laganih voćnih aroma. Harmoničnog okusa, prirodno mutno, nefiltrirano i nepasterizirano s naglašenom aromom slada zaokruženom vrhunskim hmeljevima koji upotpunjuju doživljaj, te smanjenom gorčine omogućuju lagano uživanje i ispijanje.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/h/o/houblon-blonde-ale_1_1.jpg",
+      "id": 78
+    },
+    {
+      "name": "Houblon Pale Ale",
+      "desc": "Jantarno pive umjerene gorčine za one koji uživaju u slatkim karamelastim aromama.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/h/o/houblon-pale-ale.jpg",
+      "id": 79
+    },
+    {
+      "name": "Innis & Gunn Lager Beer",
+      "desc": "Ovaj „Premium Lager“ se proizvodi u malim količinama sa zobom. Specifičan okus je dobiven kombinacijom slatkog slada i blage arome hmelja.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/i/n/innis-and-gun-lager-beer.jpg",
+      "id": 80
+    },
+    {
+      "name": "Iron Maiden Trooper",
+      "desc": "Okusi slada s detaljima agruma dolaze od iz jedinstvenih sorti hmelja Bobec, Goldings i Cascade, te dominiraju u duboko zlatnom pivu s istančanim daškom limuna.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/i/r/iron-maiden-trooper.jpg",
+      "id": 81
+    },
+    {
+      "name": "Karlovačko",
+      "desc": "Karlovačko je lager pivo s alkoholnim udjelom od 5%, a obilježava ga zlatno žuta boja i osvježavajuće gorak okus. Posebno je po skladnoj aromi slada i punoći okusa, a dobitnik je mnogih međunarodnih nagrada među kojima se posebno ističe zlatna medalja s natjecanja Brewing Industry International Awards – takozvani »pivski Oscar« – iz 2005.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/k/a/karlovacko_1_1_1_1.jpg",
+      "id": 82
+    },
+    {
+      "name": "Karlovačko Crno",
+      "desc": "Ovo izvanredno pivo donjeg vrenja, sa 6% alkohola, punog je i profinjenog okusa te obogaćeno prženim karamelnim sladom i zaokruženo bogatom pjenom. Stvoreno s posebnom pažnjom vrhunskih majstora pivara, Karlovačko crno pripravlja se od čak tri vrste slada.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/k/a/karlovacko-crno_1_1_1.jpg",
+      "id": 83
+    },
+    {
+      "name": "Karmeliet Tripel",
+      "desc": "Temelji se na receptu iz 1679 koji koristi pšenicu, zob i ječam. Aroma ima naznake vanilije pomiješane s aromama citrusa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/k/a/karmeliet-tripel_1_1.jpg",
+      "id": 84
+    },
+    {
+      "name": "Kasteel Barista Chocolate Quad",
+      "desc": "Pivo i kava ujedinjeni u Kasteel Barista Chocolate Quad s okusima i mirisima karamele, kakaa i pečenog slada. Pivo ima naznake kave i tople čokolade i grije vas se alkoholom u aftertasteu. Za sladokusce.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/k/a/kasteel-barista-chocolate-quad_1_1.jpg",
+      "id": 85
+    },
+    {
+      "name": "Kasteel Donker",
+      "desc": "Kvaliteta prošlosti još uvijek bez premca i voljeni okus je vrlo velik dio sadašnjosti. Kasteel je tamno, craft pivo, mekano i blago, puno i kremasto. Može odstajati mnogo, mnogo godina, kao što je navedeno na boci.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/k/a/kasteel-donker_1_1.jpg",
+      "id": 86
+    },
+    {
+      "name": "Kasteel Rouge",
+      "desc": "Kasteel Rouge je mješavina Kasteel Donker i likera od višnje. Mješavina tih dvaju izvrsnih proizvoda stvara iznimno pivo.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/k/a/kasteel-rouge_1_1_1.jpg",
+      "id": 87
+    },
+    {
+      "name": "Kozel Dark",
+      "desc": "Kozel tamno pivo je originalnim receptom pomoću posebne mješavine tamnog slada, čiste vode iz vlastitog bunara u blizini pivovare, te izbor najboljeg hmelja. Karamelizirani slad daje ovom pivu jedinstvenu rubin boju i slatki okusa, zahvaljujući kojem se cijeni u cijelom svijetu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/k/o/kozel-dark_1_1_1.jpg",
+      "id": 88
+    },
+    {
+      "name": "Kozel Svetly",
+      "desc": "Kozel pivo odlikuje delikatan okus, a izvrsno je i kao osvježenje tijekom dana, ili za opuštanje nakon uspješno obavljenog posla.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/k/o/kozel_1_1.jpg",
+      "id": 89
+    },
+    {
+      "name": "Kronenbourg 1664 Blanc",
+      "desc": "1664 Blanc je svježe i voćno bijelo pivo. Zbog svog okusa i dizajna, utjelovljuje eleganciju i okus Francuske u svijetu pšeničnih piva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/i/m/img_1669.jpg",
+      "id": 90
+    },
+    {
+      "name": "Kwak Pauwel",
+      "desc": "Specijalni Belgijski ale. Boje jantara s lijepom pjenom i slatko, zavodljiv karakter slada. Bogato, zadovoljavajuće Belgijsko iskustvo.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/k/w/kwak-pauwel.jpg",
+      "id": 91
+    },
+    {
+      "name": "La Trappe Blond",
+      "desc": "Ovo zlatno pivo ima bogatu, voćnu aromu, te svježi miris. Ima mekanu gorčinu.Dobro uravnotežena mješavina složenosti i jednostavnosti. La Trappe Blond nastavlja fermentirati u boci.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/a/la-trappe-blond.jpg",
+      "id": 92
+    },
+    {
+      "name": "La Trappe Dubbel",
+      "desc": "La Trappe Dubbel iznimno je tamne smeđe boje. Upotreba karameliziranog slada daje mu nježnu aromu karamele. Osjeća se bogat okus slada sa dodirom slatkoće. Nakon fermentacije La Trappe Dubbel je pitko pivo, ali punog tijela te intenzivnog okusa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/a/la-trappe-dubbel.jpg",
+      "id": 93
+    },
+    {
+      "name": "La Trappe Quadrupel",
+      "desc": "Posebno pivo La Trappe asortimana, prekrasne jantarne boje. Okus je topao, pun, uravnotežen s ugodnom kombinacijom gorko slatkastog. Posljednju fazu fermentacije pivo završava u hrastovim bačvama u dubokim vinskim podrumima.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/a/la-trappe-quadrupel_1_2.jpg",
+      "id": 94
+    },
+    {
+      "name": "La Trappe Tripel",
+      "desc": "Ovo pivo svježe i pikantno pivo dobilo je svoj okus korištenjem korijandera i drugih začina i bilja. Unatoč svom punom, bogatom okusu, ovo neobično pivo i dalje ima lagan i suh okus s dozom gorke finese.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/a/la-trappe-tripel.jpg",
+      "id": 95
+    },
+    {
+      "name": "Lancaster Bomber",
+      "desc": "Višestruko nagrađivano pivo spravljeno u čast Avre Lancastera i jednostavno je \"najbolje od britanskog piva\". Klasičan English Ale, kestenjaste boje, punog okusa, obogaćen sa zakašnjelim karakterom hmelja.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/a/lancaster-bomber.jpeg",
+      "id": 96
+    },
+    {
+      "name": "Leffe Blonde",
+      "desc": "Leffe Blonde je samostansko pivo pune sunčano, zlatne boje. Kao i sva Leffe piva, to je pivo za 'znalce' te je iznimno pitko.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/e/leffe-blonde_1_1.jpg",
+      "id": 97
+    },
+    {
+      "name": "Leffe Brune",
+      "desc": "Tradicionalno belgijsko samostansko pivo duboke smeđe boje te pune, slatke i voćne arome.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/e/leffe-brune_1_1.jpg",
+      "id": 98
+    },
+    {
+      "name": "Lepi Dečki Kaj-El",
+      "desc": "Prvi super junak iz pivovare Međimurski Lepi Dečki, napravljen s ciljem da vas nježno, ali sigurno uvede u svijet craft piva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/e/lepi-decki-kaj-el_1.jpg",
+      "id": 99
+    },
+    {
+      "name": "Lepi Dečki Međimursko",
+      "desc": "Duboka zlatna boja i ugodan okus savršeni su za opuštanje.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/e/lepi-decki-medimursko_1.jpg",
+      "id": 100
+    },
+    {
+      "name": "Lepi Dečki Nikola Zrinski",
+      "desc": "U Međimurski Lepi Dečki pivovari pripremili su proizvod koji odaje počast ovom čakovečkom vojskovođi, hrvatskom banu i pjesniku. Pšenično pivo, pivo kojim se iznimno ponose ime je dobilo upravo po Nikoli. Nikola Zrinski VII. Čakovečki je praunuk Nikole Šubića Zrinskog, sigetskog junaka, a unuk Jurja IV. Zrinskog, bio je sedmi po redu s tim imenom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/e/lepi-decki-nikola-zrinski.jpg",
+      "id": 101
+    },
+    {
+      "name": "Lepi Dečki To je vuk",
+      "desc": "Session IPA koje je od eksperimenta postala stalni dio naše postave. Izražene arome tropskog voće, citrusa i kokosa koje je proizveo slovenski hit hmelj Styrian Wolf čine ovo pivo svačijim favoritom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/e/lepi-decki-to-je-vuk.jpg",
+      "id": 102
+    },
+    {
+      "name": "Lepi Dečki Tria De Los Muertos",
+      "desc": "Craft lager po originalnoj recepturi od 3 vrste hmelja i 3 vrste ječma, izraženog mirisa i slatkastog okusa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/e/lepi-decki-tri-de-los-muertos.jpg",
+      "id": 103
+    },
+    {
+      "name": "Lepi Dečki Waitapu",
+      "desc": "Međimurski blonde ale. Nepasterizirano i nefiltrirano pivo.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/e/lepi-decki-waitapu.jpg",
+      "id": 104
+    },
+    {
+      "name": "Ličanka Kasačko",
+      "desc": "Spravljeno od 60% svijetlog i 40% tamnog piva. Još jedno jako dobro pivo od samog izgleda, preko okusa do mirisa. Kasačko je prirodan proizvod s neobrađenom izvorskom vodom bez konzervansa, emulgatora i aditiva. U pivu se osjeti minhenski slad, karamela i orasi koji su jako dobro uravnoteženi. Pivo ima boju oraha i finu gaziranost.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/i/licanka-kasacko_1_1.jpg",
+      "id": 105
+    },
+    {
+      "name": "Ličanka Velebitsko",
+      "desc": "Velebitsko svijetlo prepoznali su stručnjaci s Oxforda kao iznimno pivo. Proizvedeno na prirodan način po bavarskom zakonu o čistoći piva iz 1516. god.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/i/licanka-velebitsko_1_1.jpg",
+      "id": 106
+    },
+    {
+      "name": "Ličanka Velebitsko Tamno",
+      "desc": "Nije preteško, ali vrlo bogatog okusa karameliziranog slada, promjenjivo slatkog, vrlo ugodno i pitko.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/i/licanka-velebitsko-tamno_1_1.jpg",
+      "id": 107
+    },
+    {
+      "name": "Lindemans Apple",
+      "desc": "Pivo spontane fermentacije. Sadrži: vodu, ječam, pšenicu, hmelj, kvasac, sok od jabuke 30% i arome.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/i/lindemans-apple_1_1_1.jpg",
+      "id": 108
+    },
+    {
+      "name": "Lindemans Framboise",
+      "desc": "Čisto i prirodno spravljeno sa svježim malinama i predivnim aromama.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/i/lindemans-framboise_1_1.jpg",
+      "id": 109
+    },
+    {
+      "name": "Lindemans Kriek",
+      "desc": "Sastojci: slad, pšenica, 25% sok od višnje, fruktoza, hmelj, aroma trešnje, zamjena za šećer, askorbinska kiselina, kvasac.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/l/i/lindemans-kriek_1_1.jpg",
+      "id": 110
+    },
+    {
+      "name": "Maredsous Blond",
+      "desc": "Utemljen u 19. stoljeću, Maredsous samostan ima mnogo dužu povijest. De facto, više od tisuću godina. 1963. godine Benediktinski samostan Maredsous povjerio je proizvodnju i prodaju čuvenog Maredsous piva pivovari Duvel Moortgat. Redovnici su nastavili sa strogom kontrolom recepta i standarda kvalitete sve do danas. Maredsous sa 6 % alkohola spaja različite sastojke slada i hmelja u harmoniju okusa. Udio voća obogaćuje svježinu i daje nesnatnu gorčinu nakon kušanja. Izvrstan za gašenje žeđi.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/a/maredsous-blond_3_1_1.jpg",
+      "id": 111
+    },
+    {
+      "name": "Maredsous Bruin",
+      "desc": "Utemljen u 19. stoljeću, Maredsous samostan ima mnogo dužu povijest. De facto, više od tisuću godina. 1963. godine Benediktinski samostan Maredsous povjerio je proizvodnju i prodaju čuvenog Maredsous piva pivovari Duvel Moortgat. Redovnici su nastavili sa strogom kontrolom recepta i standarda kvalitete sve do danas. Maredsous sa 8% alkohola ima kremastu, pjenastu, tamnu boju, a prepoznatljivo je po izrazitoj aromi. Kraljevska aroma karamele je ispunjena majstorski dodanim voćnim okusom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/a/maredsous-bruin_1_1_1.jpg",
+      "id": 112
+    },
+    {
+      "name": "Maredsous Tripel",
+      "desc": "Utemljen u 19. stoljeću, Maredsous samostan ima mnogo dužu povijest. De facto, više od tisuću godina. 1963. godine Benediktinski samostan Maredsous povjerio je proizvodnju i prodaju čuvenog Maredsous piva pivovari Duvel Moortgat. Redovnici su nastavili sa strogom kontrolom recepta i standarda kvalitete sve do danas. Maredsous sa 10 % alkohola je okarakteriziran finim, gotovo veselim mjehurićima. Kiselo-slatko-gorki okusi pomješani su zajedno u pun svježi okus sa slatkim okusom na kraju.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/a/maredsous-tripel_3_1_1.jpg",
+      "id": 113
+    },
+    {
+      "name": "Marston's 61 Deep",
+      "desc": "Duboko 61 m. To je dubina bunara u pivovari koja daje ime ovom osvježavajućem piću. Pet američkih i australijskih hmeljeva mu daju svježu istaknutu aromu, dok ga tropsko voće i citrusne note čine iznimno pitkim.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/i/m/img_1673.jpg",
+      "id": 114
+    },
+    {
+      "name": "Marstons EPA",
+      "desc": "Okus EPA-e je jedinstven. U proizvodnju su korišteni Cascade i Styrian sorte hmelja koje daju subtilnu notu citusa i lagano gorak aftertaste. Iznimno pitko i osvježavajuće pivo.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/a/marstons-epa_1_1.jpg",
+      "id": 115
+    },
+    {
+      "name": "Marstons Old Empire",
+      "desc": "Old Empire je svijetlo Ale pivo britanskog stila, voćnih nota, s nešto višim postotkom alkohola i jače zahmeljenim okusom, pa stoga posjeduje originalne karakteristike India Pale Ale-ova (IPA) koji su se prije nekoliko stoljeća proizvodili za britanske radnike i vojnike u koloniziranoj Indiji.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/a/marstons-old-empire_1_1_1.jpg",
+      "id": 116
+    },
+    {
+      "name": "Marstons Pedigree",
+      "desc": "Pedigree je jedinstven. Ne samo zato jer se još uvijek proizvodi u hrastovim bačvama, ali to je jedino pivo koje u proizvodnji koristi vodu sa izvora Burton. Ima poseban miris, malo aromatičnog hmelja, slad koji vas podsjeća na domaće kolače i nježno osvježavajuću voćnost. Nije čudo da su ovo pivo proglašavali i \"kraljem bittera\".",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/a/marstons-pedegree.jpg",
+      "id": 117
+    },
+    {
+      "name": "Mc Chouffe",
+      "desc": "Mc Chouffe je nefiltrirano tamno pivo koje refermentira u boci. Iza voćnog okusa s dodirom čokoladnoga, može se naći i lagani nagovještaj gorčine.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/c/mc-chouffe_1_1.jpg",
+      "id": 118
+    },
+    {
+      "name": "McEwan's Export",
+      "desc": "Slatka i žestoka aroma s naglašenim završetkom susreću se u ovom ukusnom pivu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/c/mcewans-export.jpg",
+      "id": 119
+    },
+    {
+      "name": "Medvedgrad Baltazar",
+      "desc": "Prvo put skuhan u travnju 2016. godine. Svijetli zahmeljeni lager voćne arome s laganom gorčinom hmelja od 45 IBU-a. Za ovaj neuobičajeni lager korišteni su hmeljevi Simcoa, Citra te Mandarina Bavaria.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/e/medvedgrad-baltazar_1_2.jpg",
+      "id": 120
+    },
+    {
+      "name": "Medvedgrad Crna Kraljica",
+      "desc": "Jače zahmeljeno crno pivo s karakterističnim okusom i aromom po tamnom, prženom sladu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/e/medvedgrad-crna-kraljica.jpg",
+      "id": 121
+    },
+    {
+      "name": "Medvedgrad Dva Klasa",
+      "desc": "Tamno mutno pivo purpurno crvene boje specifičnog mirisa i okusa koji potječu od pšeničnog slada.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/e/medvedgrad-dva-klasa.jpg",
+      "id": 122
+    },
+    {
+      "name": "Medvedgrad Fakin IPA",
+      "desc": "India Pale Ale, bogatog okusa, prekrasne boje, neodoljive arome i pripitomljene gorčine. Drugačije, neustrašivo... Pravi fakin!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/e/medvedgrad-fakin-ipa_1_2.jpg",
+      "id": 123
+    },
+    {
+      "name": "Medvedgrad Fred",
+      "desc": "Fred je nova kolaboracija Medvedgrada i ujedno najjače pivo ikad skuhano u ovoj pivovari s golemih 11,2 posto alkohola, što je logična posljedica suradnje s američkom pivovarom Hair od the Dog iz Portlanda u Oregonu. Fred je napravljen uz kombiniranje američkih i europskih vrsta hmelja, a da ga ima dosta zorno svjedoči podatak o 76 IBU.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/e/medvedgrad-fred.jpg",
+      "id": 124
+    },
+    {
+      "name": "Medvedgrad Grička Vještica",
+      "desc": "Jaki tamni lager, nježne rubin crvene boje. Okus lagan, aromatičan, bogate fine slatkoće i ugodne arome.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/e/medvedgrad-gricka-vjestica.jpg",
+      "id": 125
+    },
+    {
+      "name": "Medvedgrad Hladno Pivo",
+      "desc": "“Nema ništa bolje od hladnog piva”, proročki su ustvrdili Mile i Zoki dok su vrućeg ljeta 1987. otvarali orošene boce piva sjedeći uz gajnički potok. Ova jednostavna tvrdnja već se više od 30 godina pokazuje istinitom u svijetu glazbe, a danas ima svoju inačicu i u pivskom svijetu. Nastao u novom pogonu Pivovare Medvedgrad, u istom kvartu kao i bend, Hladno pivo je posveta najpopularnijim gajničkim pankerima. Ovaj je craft lager - baš kao i sam bend - drugačiji od drugih, vrlo pitak, s karakterom, punog tijela i bogate arome. Fanovi će na etiketi prepoznati osam albuma benda. Za sve ostale, nema ništa bolje od hladnog Hladnog piva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/e/medvedgrad-hladno-pivo.jpg",
+      "id": 126
+    },
+    {
+      "name": "Medvedgrad Pivo sv. Martina",
+      "desc": "Pivo Svetog Martina skuhali su majstori pivari Matt Hollingsworth i Božidar Kostanjčar. Odležan više od šest mjeseci, ovaj jaki ale ispunjen je kompleksnim sladnim notama, izraženim voćnim okusom te zavodljivom aromom. Nepce će vam zaogrnuti neočekivana toplina u koju se zaljubio i biskup Martin te zaboravio na vino. Predstavniku ceha vinara podario je slad i hmelj kako bi i oni mogli kuhati pivo...",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/e/medvedgrad-pivo-svetog-martina.jpg",
+      "id": 127
+    },
+    {
+      "name": "Medvedgrad Zlatni Medvjed",
+      "desc": "Svijetlo pivo zlatnožute boje, osvježavajućeg okusa i arome s ugodnom gorčinom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/e/medvedgrad-zlatni-medvjed.jpg",
+      "id": 128
+    },
+    {
+      "name": "Mikkeller Beer Geek Breakfast",
+      "desc": "Pivo koje ide iznimno dobro uz doručak. Također i u bilo koje drugo doba dana. Ugodne naznake kave i dima, kao i tamne čokolade te prženog slada. Mikkeller klasik!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/i/mikkeller-beer-geek-breakfast_1_1.jpg",
+      "id": 129
+    },
+    {
+      "name": "Mikkeller Green Gold",
+      "desc": "2006. godine bio je profesor matematike i fizike koji je počeo eksperimentirati s hmeljem, sladom i kvascom kod kuće u kuhinji. Danas Mikkel Borg Bjergsø izvozi svoje mikro pivo u 40 različitih zemalja i međunarodno je priznat kao jedan od najinovativnijih i vrhunskih pivara u svijetu. Zbog inovacija i stalnog razvoja Mikkeller-a zovu 'kultni', 'rock'n'roll' i \"gypsy brewer\" (nema vlastitu pivovaru).",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/m/i/mikkeller-green-gold-gluten-free_1_1.jpg",
+      "id": 130
+    },
+    {
+      "name": "Nektar",
+      "desc": "Koristeći samo najbolje sastojke i originalni recept koji datira iz 1873. godine, Nektar je pravi dragulj za sve ljubitelje piva. Jedinstven okus i kvaliteta takvog lagera predstavljen je kroz njegovo simbolično ime, Nektar, piće bogova sa Olimpa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/n/e/nektar_1_1.jpg",
+      "id": 131
+    },
+    {
+      "name": "Nikšićko Pivo",
+      "desc": "Nikšićko pivo datira od 1896 godine. Za sobom ima više od jednog vijeka pivarske tradicije i majstorstva. Brojne medalje osvojene na raznim svjetskim natjecanjima, potvrđuju nesumnjivu kvalitetu ovog piva, tako da ne čudi da ono predstavlja omiljeni pivski brend na našem tržištu. Pravi se od planinskog ječma , tvrde planinske vode i gorkog iznimno aromatičnog hmelja. Služi se ohlađeno na temperaturi od 5 stupnjeva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/n/i/niksicko_2_1_1.jpg",
+      "id": 132
+    },
+    {
+      "name": "O'Hara's Irish Pale Ale",
+      "desc": "Žestog i osvježavajuće gorak, a završetak je dug. Uz bakreni ton, suha poskakivanja, donosi intenzivan miris i trajan niz voćnih i cvjetnih nota.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/o/h/oharas-irish-pale-ale_2_1_1.jpg",
+      "id": 133
+    },
+    {
+      "name": "O'Hara's Irish Red",
+      "desc": "Ovaj Crveni Ale ističe se u ovoj kategoriji pivskog stila. Slad piva je impresivan kao bock, iako na jedinstven irski način. S nevjerojatnom glatkoćom slada, nadopunjenu karamelnim tonovima i savršeno uravnotežen u gorčini, ovaj Irski crveni ale je puno složeniji od svojih rivala.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/o/h/oharas-irish-red_1_1_1.jpg",
+      "id": 134
+    },
+    {
+      "name": "O'Hara's Irish Stout",
+      "desc": "O'Hara Irish Stout je robusna okusa, upotpunjene punoće i glatkog je osjećaja u ustima. Velikodušni dodatak Fuggle hmelja posuđuje oporu gorčinu na suhom poput espressa završetku. Ovo stout pivo je ispunjeno bogatim složenim aromama kave pomiješano s lakim notama slatkog korijena. Kombinacija tradicionalnog Stout hmelja s pomoćnom trunkom pečena ječma omogućuje nam da ostanemo vjerni irskoj tradiciji, okus za kojim često čeznu stout pivopije.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/o/h/oharas-irish-stout_1_1_1.jpg",
+      "id": 135
+    },
+    {
+      "name": "Orval",
+      "desc": "Za razliku od svih ostalih, \"Orval Trappist\" pivovara proizvodi samo jedno pivo za širu javnost. Ima izrazito aromatičan i suh karakter. Svakako jedno od najboljih Belgijskih piva.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/o/r/orval_1_1_1.jpg",
+      "id": 136
+    },
+    {
+      "name": "Osječko",
+      "desc": "Osječko pivo je prvo hrvatsko pivo s izvornom recepturom i tradicionalnim načinom proizvodnje koje proizvodi Osječka pivovara, locirana na Zelenom polju, Osijek, i ima tradiciju proizvodnje piva više od tri stoljeća.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/o/s/osjecko_1_1.jpg",
+      "id": 137
+    },
+    {
+      "name": "Ožujsko",
+      "desc": "Ožujsko pivo je svijetlo lager pivo koje se proizvodi od 1893. godine. Ime je dobilo po mjesecu Ožujku u kojem se tradicionalno proizvodilo najbolje pivo.Svake sekunde se u Hrvatskoj popije u prosjeku 7 boca Ožujskog.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/o/z/ozujsko_1_1.jpg",
+      "id": 138
+    },
+    {
+      "name": "Pan",
+      "desc": "Pan je osvježenje za svaku prigodu, posebnog osvježavajućeg okusa i smanjene gorčine. Donosi odmak od dnevne rutine i užitak u stvarima koje su nam važne. Njegov bistar i osebujan karakter rado se otvora novim poznanstvima kroz kvalitetnu i pitku priču. Sve to čini Pan idealnim pratiteljem prijateljskih okupljanja i opuštanja u dobrom društvu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/a/pan_1_1.jpg",
+      "id": 139
+    },
+    {
+      "name": "Pan Pilsner",
+      "desc": "Pan Pilsner je lagano osvježavajuće pivo profinjene arome, punog okusa i bogate pjene.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/a/pan-pilsner.jpg",
+      "id": 140
+    },
+    {
+      "name": "Pan Zlatni",
+      "desc": "Pan Zlatni su pivarski majstori koprivničke pivovare razvili u suradnji s 600 hrvatskih ljubitelja piva, a oni su se odlučili za pivo zlatne boje, napravljeno prema pažljivo pripremljenoj originalnoj recepturi. Uz jedinstvenu boju, Pan Zlatni odlikuje se i prepoznatljivom pravom pivskom aromom, uz nešto izraženiju, ali profinjenu gorčinu koja je dobivena uporabom posebne sorte hmelja uzgojene u Hrvatskoj.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/a/pan-zlatni_1_1.jpg",
+      "id": 141
+    },
+    {
+      "name": "Paulaner Hefeweissbier",
+      "desc": "Broj 1. pšenično pivo u Njemačkoj i jedan od najvećih svjetskih favorita. Poznavatelji piva cijene fini dodir kvasca i blagu, ali pjenušavu mješavina mirisa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/a/paulaner-hefe-weissbier_1_1.jpg",
+      "id": 142
+    },
+    {
+      "name": "Paulaner Hefeweissbier Dunkel",
+      "desc": "Ima osvježavajuću voćnost pšenice, s bogatim okusom i bojom karameliziranog ječma.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/a/paulaner-hefeweissbier-dunkel_1_1.jpg",
+      "id": 143
+    },
+    {
+      "name": "Paulaner Original Munchner Hell",
+      "desc": "Kada je spravljen prvi izvorni Münchner pred kraj 19. stoljeća, doživljen je spektakularan uspjeh. Sa svojim hmeljastim okusom, suptilan i elegantan, postaje sve popularniji u svijetu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/a/paulaner-original-munchner-hell_1_1.jpg",
+      "id": 144
+    },
+    {
+      "name": "Pilsner Urquell",
+      "desc": "Dok većina lagera daje većinu svog profila okusa u prednjem dijelu usta, Pilsner Urquell tamo daje samo podsjetnik na okus. Umjesto tamo, razvija se u sredini, nakon čega slijedi osvježavajući, čisti završetak i uravnotežen aftertaste, praktički vas poziva na drugo.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/i/pilsner-urquell_1_1.jpg",
+      "id": 145
+    },
+    {
+      "name": "Piraat",
+      "desc": "Piraat preplavljuje s aromama gorkog, pikantnog, sladom i alkoholnim mirisima. Ono što slijedi je savršena kombinacija slada, slatkih i hmeljnih okusa, nakon što ste se utopili u dugi, polu slatki aftertaste sa gorkim prizvukom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/i/piraat_1_1_1.jpg",
+      "id": 146
+    },
+    {
+      "name": "Pivionica Fulir",
+      "desc": "“Fulir” je svijetlo lager pivo nastalo u pivovari tradicionalnim postupkom uz korištenje isključivo prirodnih sastojaka. Birane plemenite sorte hmeljeva i ječmeni sladovi vrhunske kvalitete odlikuju ga iznimnom pitkošću, bogatim okusom i aromom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/i/pivionica-fulir_1_1.jpg",
+      "id": 147
+    },
+    {
+      "name": "Põhjala Glen Noble",
+      "desc": "Põhjala u suradnja s Tempest Brewing Co. kuha modernu ideju tradicionalnog Scottish 160/- shilling alea, s medom od divljeg cvijeta i odležanog u mješavini bačvi whiskya Glen Garioch i Auchentoshan. Okusom prepečeni kruh namazan bogatim, slatkim medom i esterima marcipana klizi po nepcu. Karamela i nježni dim treseta pridružuju se plesu, a note toskanske kože zadržavaju se na jeziku. Dublje ronjenje otkriva nagovještaje poširanih krušaka, prije posljednjeg krešenda suhog voća i zagrijavajućih začina.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/o/pohjala-glen-noble.jpg",
+      "id": 148
+    },
+    {
+      "name": "Põhjala Honey Laku",
+      "desc": "Imperial Porter, spravljen s medom, korijenom sladića i crnim ribizlom, odležan u bačvama Pedro Ximenez i Bourbona. Okusom baršunasto glatka moka i bogati karakter meda dolaze na prvo mjesto, s dodirom crnog papra i kima koji se slažu u slojevima i balansiraju slatku karamelu iz slada. Na kraju je dugotrajna aroma svježeg sladića praćena ugodnom kiselošću ribizla i tek primjesom kamene soli da ujedini okuse.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/o/pohjala-honey-laku.jpg",
+      "id": 149
+    },
+    {
+      "name": "Põhjala Orange Gose",
+      "desc": "Gose kuhan s narančama, korijanderom, himalajskom kamenom soli i kulturom laktobacila pivovare. Okusom osvježavajuće limunske kisele note prolaze pomiješane s primjesama svježih polja raži, a uravnotežene slatkom, pekmezastom sočnošću naranče. Još više cvjetnog zamaha prodire, dok se čaša zagrijava.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/o/pohjala-orange-gose.jpg",
+      "id": 150
+    },
+    {
+      "name": "PriMarius Bijelo",
+      "desc": "Ah, AH kakva sreća! S naranči dok kaplje rosa, a kamilica za korijanderom trči bosa, i pšenica vijori kao raspletena kosa, ti uživaš osvježena nepca, ali i nosa... čista radost... BIJELO!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/b/i/bijelo.jpg",
+      "id": 151
+    },
+    {
+      "name": "PriMarius Cvrkut",
+      "desc": "Kao ptica pjev netom prije zore, netko pjevuši dok kosi, a drugi dok milo zvučno ore… baš me briga… sjedni i uživaj… CVRRKUT!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/c/v/cvrkut.jpg",
+      "id": 152
+    },
+    {
+      "name": "PriMarius Taman Taman",
+      "desc": "Svilenkasti suhovoćni direkt te tamno čokoladni aperkat s blagim kavenim krošeom u baršunastom taman tamnom biskvitnom tijelu … baršunasto-čokoladno-svilenkast… TAMAN TAMAN!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/t/a/taman_taman.jpg",
+      "id": 153
+    },
+    {
+      "name": "Pulfer Landsky Session IPA",
+      "desc": "Ova IPA je napravljena u čast jedne od najkul žena u zagrebačkoj povijesti – prve ZET konduterke Paule Landsky. Želimo da naše pivo bude baš poput nje, neustrašivo i sofisticirano.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/u/pulfer-landsky-session-ipa.jpg",
+      "id": 154
+    },
+    {
+      "name": "Pulfer Ziher Pale Ale",
+      "desc": "Jednostavno pitko piće sa savršenim balansom između karamelastih nota i aroma američkog hmelja (Cascade i Chinook).",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/p/u/pulfer-ziher-pale-ale_1.jpg",
+      "id": 155
+    },
+    {
+      "name": "Radeberger Pilsner",
+      "desc": "Radeberg je maleni gradić u Njemačkoj u kojem su davne 1872. godine petorica muškaraca odlučila sve podučiti malo o pivu. Naime, oni su bili amateri i činjenica da nisu imali iskustva, nije ih poljuljala. Bili su uvjereni da bi udruživanjem svojih ideja i nešto novca uspjeli u svom naumu. Slijedili su svoju intuiciju i u potpunosti se fokusirali na stvaranje piva savršene teksture, mirisa i okusa. Kako bi se osiguralo generacija kvalitete i izuzetne dosljednosti, upotrebljava se voda iz Karswaldovske šume, najizvrsniji hmelj i ječam kako bi stvorili uistinu osebujni okus. Pivo ima sjajno zlatnu boju, a svježi zeleni orasi, smreka i dodatak vanilije ispunjavaju složenu aromu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/r/a/radeberger-pilsner.jpg",
+      "id": 156
+    },
+    {
+      "name": "Robinsons Hopnik Citra IPA",
+      "desc": "IPA sa notama citrusa, voća i hmelja. Ukusno je ali osvježavajuće s naznakama sladne karamele te ostavlja laganu gorčinu za sobom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/i/m/img_1678.jpg",
+      "id": 157
+    },
+    {
+      "name": "Robinsons Kettlehead Choc Stout",
+      "desc": "Tamno i misteriozno s naznačenom aromom pržene čokolade i slada. Bogato je i zadovoljavajuće. Naknadna gorčina je savršeno izbalansirana sa slatkoćom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/i/m/img_1679.jpg",
+      "id": 158
+    },
+    {
+      "name": "Rochefort Trappistes 10",
+      "desc": "Top proizvod iz \"Rochefort Trappist\" pivovare. Tamna boja, punog i vrlo impresivnog okusa. Jaka šljiva, grožđica i crni ribiz na nepcu, s notama uspinjućim vinskimi drugim složenostima.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/r/o/rochefort-trappistes-10.jpg",
+      "id": 159
+    },
+    {
+      "name": "Rochefort Trappistes 6",
+      "desc": "Ovo pivo ima crvenkastu boju jesenjeg lišća, mekanu pjenu, zemljano i biljno nepce (nagovještaj Darjeeling čaja), koji se razvija u dubokoj voćnosti.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/r/o/rochefort-trappistes-6.jpg",
+      "id": 160
+    },
+    {
+      "name": "Rochefort Trappistes 8",
+      "desc": "Rochefort 8 ima više žutosmeđe boje i naglašenije arome, s još bogatijom voćnosti (blagi prizvuk smokve) i malo više začinjenu suhoću, kao da je od kolača, što daje uravnoteženost na završnim notama.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/r/o/rochefort-trappistes-8.jpg",
+      "id": 161
+    },
+    {
+      "name": "Rodenbach Grand Cru",
+      "desc": "Mješavina 33% mladog piva i 67% piva odležalog 2 godine u velikim hrastovim bačvama. Veći udio piva odležalog u hrastovim bačvama pridonosi njegovom voćnom okusu, složenosti i intenzitetu. Sam kraj je dostojan velikog vina.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/r/o/rodenbach-grand-cru_1_1_1.jpg",
+      "id": 162
+    },
+    {
+      "name": "Rogue Dead Guy Ale",
+      "desc": "U stilu njemačkog Maibocka, koristeći autorski Pacman kvasac, Dead Guy je duboke medene boje s aromom slada i bogatim, srdačnim okusom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/r/o/rogue-dead-guy-ale.jpg",
+      "id": 163
+    },
+    {
+      "name": "Rogue Hazelnut Brown Nectar",
+      "desc": "Iz glavnog grada lješnjaka u SAD-u, ovaj orašasti Brown Ale nudi aromu lješnjaka s bogatim okusom orašastih plodova i uglađenim završetkom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/r/o/rogue-hazelnut-brown-nectar.jpg",
+      "id": 164
+    },
+    {
+      "name": "Samichlaus Classic",
+      "desc": "Nekad najjače pivo na svijetu se vratilo! Proizvodi se samo jednom godišnje i to 6. prosinca. Samichlaus mora \"odležati\" 10 mjeseci prije punjenja u boce. Ovo pivo je možda najrjeđe u svijetu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/a/samichlaus-classic_1_1_1.jpg",
+      "id": 165
+    },
+    {
+      "name": "Samuel Adams Boston Lager",
+      "desc": "Samuel Adams je pivo bogatog, kompleksnog i balansiranog okusa. Upotreba dvoredog ječma daje pivu punoću tijela te širok spektar sladnih okusa i mirisa, od lagano sladnog i karamelastog do lagano prženog. Plemenite hmeljne sorte dodaju pivu razne cvjetne i citrusne note, te note borovine.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/a/samuel-adams-boston-lager_1_1.jpg",
+      "id": 166
+    },
+    {
+      "name": "San Servolo APA",
+      "desc": "Specijalno ale pivo proizvedeno po uzoru na engleski IPA, uz razliku koju čine posebno uzgojeni hmeljevi sjeverno američkih Indijanskih plemena koji ovom pivu daju iznimnu aromatiku koju u prvom redu krase limeta i tropsko voće, a nije uobičajena među europskim sortama hmelja.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/a/san-servolo-apa_1_1.jpg",
+      "id": 167
+    },
+    {
+      "name": "San Servolo Crveno",
+      "desc": "Dobiveno miješanjem dvije vrste slada koje ovom pivu daju prepoznatljivu rubin crvenkastu boju i specifičan okus karameliziranog i prženog ječma. Izražena gorčina zaokružuje aromu ovog piva, te pridonosi osvježavajućem okusu, pa samim time izuzetno paše uz začinjenu hranu i hranu poslije koje želite utažiti žeđ!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/a/san-servolo-crveno_1_1_1.jpg",
+      "id": 168
+    },
+    {
+      "name": "San Servolo IPA",
+      "desc": "Specijalno ale pivo vareno od najboljih vrsta engleskog slada i hmelja, robustnog tijela i izrazito cvjetne arome, proizvedeno po uzoru na engleska piva koja su se brodovima prevozila u Indiju, pa su sadržavala veći postotak alkohola i hmelja da bi izdržala taj naporan put. San Servolo IPA, putovanje do Indije u vašoj caši...",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/a/san-servolo-ipa_1_1.jpg",
+      "id": 169
+    },
+    {
+      "name": "San Servolo Svijetlo",
+      "desc": "zlatno žute boje vareno od biranog pilsner slada, začinjeno dvjema vrstama bavarskog hmelja koje ovom pivu daju suptilnu gorčinu, miris svježe pokošene trave i polja u cvatu! Zaokruženog tijela i malog postotka alkohola ovo pivo osvježiti će vas i tražiti za još jednim gutljajem više! Izuzetno paše uz jela sa roštilja, razne tjestenine, pizzu i tvrde sireve!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/a/san-servolo-svijetlo_1_1_1.jpg",
+      "id": 170
+    },
+    {
+      "name": "San Servolo Tamno",
+      "desc": "Luksuzne note kavovine i čokolade, u ovom baršunastom, kremastom a opet laganom pivu, daju čak četiri vrste slada koje se koriste za njegovu proizvodnju. Njegovu iznimnu aromu zaokružuju dvije vrste egzotičnih hmeljeva koji naglašuju jaku citrusnu notu koja oduševljava! Idealno za ispijanje u zimskim mjesecima uz razna variva, meke sireve i razne deserte!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/a/san-servolo-tamno_1_1.jpg",
+      "id": 171
+    },
+    {
+      "name": "Sarajevsko Premium",
+      "desc": "Sarajevsko pivo je najpoznatiji i najuspješniji brand iz BiH. Proizvodi se od ječmenog slada, sa svojstvenom aromom po hmelju. Voda predstavlja nezamjenjiv sastojak Sarajevskog piva. Kvaliteta vode je konstantna i nepromjenjiva u periodu dugom skoro 150 godina. Dolazi u jedinstvenoj boci.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/a/sarajevsko-premium_1_1_1.jpg",
+      "id": 172
+    },
+    {
+      "name": "Schlenkerla Rauchbier Marzen",
+      "desc": "Specijalitet pivovare, tamni, fermentirani \"smokebeer\", pivo s izvornom Smokemalt iz Schlenkerla spravljeno po tradicionalnoj recepturi u hrastovim bačvama.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/c/schlenkerla-rauchbier-marzen_1_1_1.jpg",
+      "id": 173
+    },
+    {
+      "name": "Schlenkerla Rauchbier Weizen",
+      "desc": "Schlenkerla Rauchbier Weizen je pšenično Ale pivo s laganom dimljenom aromom. Kao i druga bavarska pšenična piva, proizvedeno je od mješavine ječmenog i pšeničnog slada. Udio ječmenog slada je klasični Schlenkerla dimljeni slad, dok udio pšeničnog slada nije dimljeni slad. Pivo je nefiltrirano pa kvasac koji refermentira u boci pivu daje prirodnu mutnoću i punoću arome.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/c/schlenkerla-rauchbier-weizen_1_1.jpg",
+      "id": 174
+    },
+    {
+      "name": "Schneider TAP2 Kristall",
+      "desc": "Osvježavajuće za dušu i tijelo. Svijetlo-zlatno, kristalno čisto pšenično piva bez kvasca (filtrirano). Snažan voćni miris banana je dopunjen herbalnim notama. Pjenušavo i osvježavajuće s puno karbonizacije. Idealno uz dimljenu pastrvu s limunom, prženi komorač u maslinovom ulju i svježe sireve. Također može poslužiti kao odlična alternativa za pjenušac i prosecco, pogotovo uz dodatak sirupa od bazge.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/c/schneider-tap2-kristall.jpg",
+      "id": 175
+    },
+    {
+      "name": "Schöfferhofer Heffewizen",
+      "desc": "Schöfferhofer je poznat kao „šampanjac pšeničnih piva“ i među vodećim je brandovima u kategoriji. To je samosvjesna i nekonvencionalna marka pšeničnog piva. Schöfferhofer Hefeweizen je pšenično pivo za sve istinske poznavatelje piva, koje istodobno predstavlja karakteristike senzualnosti te modernog i urbanog stila.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/c/schofferhofer-hefeweizen.jpg",
+      "id": 176
+    },
+    {
+      "name": "Schöfferhofer Kristallweizen",
+      "desc": "Pivo kristalno zlatne boje, odličnog okusa, arome banane i klinčića te svježeg, čistog mirisa pšenice. Za razliku od klasičnog Schöfferhofer Hefeweizen piva, kvasac u ovom pivu se u potpunosti filtrira. Tako Kristallweizen pivo dobiva svoj karakterističan izgled i okus.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/c/schofferhofer-kristallweizen_1.jpg",
+      "id": 177
+    },
+    {
+      "name": "Šibenska Pivovara Mihovil",
+      "desc": "Blonde ale \"Mihovil\" koji je postigao najbolju ocjenu među vjernim kušačima je i nekakav uvod da se ljudi u Šibeniku naviknu na ale piva. Pivo je blagog okusa, ima 5,3 % alkohola, IBU 18 i EBC 12. Voda je iz Krke, ječam domaći iz Nove Gradiške, hmelj iz Slovenije i Češke, a kvasac ispiru i ponovo koriste što je bolje za samo pivo. Refermentirano je u boci.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/i/sibenska-pivovara-mihovil_1_1.jpg",
+      "id": 178
+    },
+    {
+      "name": "Sierra Nevada Pale Ale",
+      "desc": "Sierra Nevada Pale Ale je divan primjer klasičnog \"pale ale\" stila. Mirisni buke i pikantan okus su rezultati velikodušnog korištenja najboljeg \"Cascade\" hmelja.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/i/sierra-nevada-pale-ale_1_1.jpg",
+      "id": 179
+    },
+    {
+      "name": "Sierra Nevada Torpedo",
+      "desc": "Tamno Ale pivo posvećeno radničkoj klasi – za okrijepu hrabrim, radnim ljudima. Punog je okusa, zahmeljeno ali sladno, aromatično pivo s notama pržene crne kave i kakaa. Sierra Nevada Porter je stoga, ukusno osmišljena „nagrada“ koju bi si svatko trebao priuštiti nakon dugog radnog dana.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/i/sierra-nevada-torpedo_1_1.jpg",
+      "id": 180
+    },
+    {
+      "name": "Singha",
+      "desc": "Singha je mitsko stvorenje u obliku lava, dio je tajlandske povijesti i nacije sve dokle sjećanje seže. U stvari, to je životinja koja se smatra kraljem džungle i na Tajlandu i mnogim zemljama i kulturama širom svijeta. Figurativno, to je simbol moći, snage, hrabrosti, vodstva, dostojanstva, odanosti, ustrajnosti i izdržljivosti.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/i/singha_1_1.jpg",
+      "id": 181
+    },
+    {
+      "name": "Somersby Apple",
+      "desc": "Svaki trenutak uz Somersby je čaroban, a pogotovo zalazak sunca nakon radnog dana kada se opuštamo u društvu prijatelja. To je trenutak rezerviran za Somersby i prijatelje kada ne želimo da nam itko smeta. Toliko zabave dok ne radiš ništa. Somersby je službeni pokrovitelj zalaska sunca.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/o/somersby-apple_1_2.jpg",
+      "id": 182
+    },
+    {
+      "name": "Somersby Blueberry",
+      "desc": "Svaki trenutak uz Somersby je čaroban, a pogotovo zalazak sunca nakon radnog dana kada se opuštamo u društvu prijatelja. To je trenutak rezerviran za Somersby i prijatelje kada ne želimo da nam itko smeta. Toliko zabave dok ne radiš ništa. Somersby je službeni pokrovitelj zalaska sunca.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/o/somersby-blueberry_1_2.jpg",
+      "id": 183
+    },
+    {
+      "name": "Somersby Pear",
+      "desc": "Svaki trenutak uz Somersby je čaroban, a pogotovo zalazak sunca nakon radnog dana kada se opuštamo u društvu prijatelja. To je trenutak rezerviran za Somersby i prijatelje kada ne želimo da nam itko smeta. Toliko zabave dok ne radiš ništa. Somersby je službeni pokrovitelj zalaska sunca.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/o/somersby-pear_1_2.jpg",
+      "id": 184
+    },
+    {
+      "name": "Somersby Watermelon",
+      "desc": "Okus koji svakim gutljajem traži još! Ovaj cider voćnog okusa s daškom svježine i prirodnim aromama lubenice donosi ti ljetno raspoloženje bilo kad i bilo gdje,\nposebno kada se uživa poslužena s ledom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/o/somersby-watermelon.jpg",
+      "id": 185
+    },
+    {
+      "name": "Staročeško",
+      "desc": "Obilježava ga cvjetna aroma hmelja i naknadni gorkotrpki okus koji se zadržava na nepcu nakon konzumiranja. Bogato ugljičnim dioksidom, te ima visoku i trajnu pjenu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/t/staro-cesko_1_1.jpg",
+      "id": 186
+    },
+    {
+      "name": "Staročeško Crveno",
+      "desc": "Obilježava ga jantarna boja, aroma slada i naknadni karamelni okus koji se zadržava na nepcu nakon konzumiranja. Bogato ugljičnim dioksidom, te ima visoku i trajnu pjenu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/t/staro-cesko-crveno_1_1.jpg",
+      "id": 187
+    },
+    {
+      "name": "Staropramen",
+      "desc": "Staropramen potiče iz pivovare koja se nalazi u samom srca Praga i proizvodi se od 1869.g. koristeći tradicionalne češke pivarske metode. Vrhunsko češko pivo Staropramen jedno je od najpoznatijih čeških piva u svijetu, ističe se punim okusom, ugodnom pitkoćom, dojmljivom aromom hmelja, dubokom zlatnom bojom i prirodnim sastojcima visoke kvalitete.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/t/staropramen_1_1.jpg",
+      "id": 188
+    },
+    {
+      "name": "Stella Artois",
+      "desc": "Stella Artois je super premium pivo namjenjeno potrošačima koji znaju cijeniti njegovo savršenstvo i koji se žele nagraditi najkvalitetnijim pivom. Tradicija proizvodnje seže od daleke 1366. godine, a recept kvalitete i danas se čuva u domicilnom Leuvenu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/s/t/stella-artois_1_1_1.jpg",
+      "id": 189
+    },
+    {
+      "name": "Tomislav",
+      "desc": "Tomislav je crno kraljevsko pivo – prvo i najprodavanije specijalno pivo u Hrvatskoj. Datira još iz 1925. godine, kada je prvi put proizvedeno u čast tisućite obljetnice krunidbe kralja Tomislava. Tomislav je pravi izbor za istinske poznavatelje specijalnih piva koji uživaju u posebnim okusima.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/t/o/tomislav_1_1.jpg",
+      "id": 190
+    },
+    {
+      "name": "Tuborg Green",
+      "desc": "Ovaj internacionalni brend vedrog i mladenačkog imidža podržava razne projekte vezane uz glazbu. Na hrvatskom tržištu predstavljen je u ožujku 2005. godine kako bi zadovoljio potrebe mlađe populacije potrošača piva, koja prati najnovije trendove i kojoj su zabava i glazba sastavni dio života. Tuborg je visokokvalitetno, blago i pitko pivo, sa smanjenim volumnim udjelom alkohola, idealno za tulume i partyje.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/t/u/tuborg-green_1_1.jpg",
+      "id": 191
+    },
+    {
+      "name": "Varionica Deep Dive IPA",
+      "desc": "Duboko udahnite, a potom zaronite u punoću okusa i mirisa Deep Dive IPAe. Vrlo brzo ćete se naći u neodoljivom vrtlogu njene zavodljive pitkosti i uživanja u tropskim i voćnim notama američkih hmeljeva Citra, Mosaic i Centennial. Svježe hmeljne arome koštuničavog voća, manga, papaye i citrusa, čine ovo pivo pravom hmeljnom bombom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/v/a/varionica-deep-dive-ipa.jpg",
+      "id": 192
+    },
+    {
+      "name": "Varionica Hazel Cake Porter",
+      "desc": "Ovaj zavodljivi, mirisni i slatkasti porter je savršeno uravnotežen desert u obliku piva. Kremasti i bogati okus lješnjaka i marcipana, obavijen je slojevima tamne čokolade i kakaa koji ga fino balansiraju. Kakao je tostiran, te dodavan u proces kuhanja piva, tako da kakao fino komplementira čokoladne i karamelne arome prženih i specijalnih sladova. Zvuči kao najslasnija rođendanska poslastica, zar ne?",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/v/a/varionica-hazel-cake-porter.jpg",
+      "id": 193
+    },
+    {
+      "name": "Varionica Neon Stout",
+      "desc": "Pivo izrazito tamne boje. Arome su fino izražene, posebice kava i čokolada, a zatim i malo žitarica što je posljedica dodanih dviju neslađenih žitarica (uz šest sladova) u proces kuhanja. Balans je doista dobar, 6,2 % alkohola se niti ne osjeti, a završetak je laganog čokoladnog okusa. Može se zaključiti kako je riječ o jako ugodnom stoutu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/v/a/varionica-neon-stout_1_2.jpg",
+      "id": 194
+    },
+    {
+      "name": "Varionica Pale Ale",
+      "desc": "Pale Ale je pivo koje miriše na citruse i borovinu, punog okusa i jantarne boje.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/v/a/varionica-pale-ale_1_2.jpg",
+      "id": 195
+    },
+    {
+      "name": "Varionica Papak",
+      "desc": "Pivovara Varionica i chef Mate Janković zajedno su kreirali Papak, svježe, karakterno i beskompromisno kvalitetno pivo. Zašto Papak? Jer Papak nije papak. Svakom ispijenom bocom Papka, donirate 50 lipa Budi Foodie fundaciji koja stipendira obrazovanje mladih talenata u ugostiteljstvu. Izražena i bogata aroma krušnog slada uz izražene biljne, cvijetne i začinske arome hmelja čine Papak jako zakruženim ali i pitkim lagerom. Njegova kruhasta sladnost i hmeljna začinjenost odlično komplementira riblja, mesna i začinjena jela.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/v/a/varionica-papak.jpg",
+      "id": 196
+    },
+    {
+      "name": "Varionica Passion Sour",
+      "desc": "Passion Sour je svježe pivo na bazi gosea, tradicionalnog njemačkog stila piva slankasto kiselkastoga okusa rađenog uz dodatak korijandra, no Passion Sour nije samo klasična «kiselica». Ono je iznimno osvježavajuće pivo koje bi zahvaljujući tome što je obogaćeno pireom od marakuje moglo privući i one manje sklone drugačijim okusima u pivu.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/v/a/varionica-passion-sour.jpg",
+      "id": 197
+    },
+    {
+      "name": "Varionica Pop! Lager",
+      "desc": "Kao predstavnik općepopularnog i masovno prihvaćenog minhenskog helles stila, Pop!Lager će vam se, poput umjetnosti kojom je inspiriran, uvući u svakodnevan život i dati mu jednu novu razinu pitkosti. Osvježavajuće pivo mekane gorčine. Iako je njemački helles vrlo svestran za sparivanje s hranom, POP! Lager dizajniran je za osvježenje i idealno je pivo za vruće dane. Zbog svojih naglašenih sladnih aroma i mekane gorčine vjerojatno je najsvestraniji pratitelj mesnih i morskih jela.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/v/a/varionica-pop-lager.jpg",
+      "id": 198
+    },
+    {
+      "name": "Vukovarsko",
+      "desc": "Vukovarsko pivo je svijetlo , lagano, pitko pivo, čija se punoća okusa svježeg nepasteriziranog i filtriranog piva osjeti u svakoj kapi. Ovo pivo proizvedeno je od pomno odabranih sastojaka, bez aditiva, ali s mnogo ponosa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/v/u/vukovarsko-pivo.jpg",
+      "id": 199
+    },
+    {
+      "name": "Wainwright Golden Beer",
+      "desc": "Ovo ukusno, snažno i osvježavajuće pivo koristi jedinstvenu kombinaciju hmelja i 100% Marris Otter slad kako bi osiguralo suptilne slatke bilješke i nježne note citrusa. Rezultat je savršeno osvježavajuća nagrada s laganim voćnim mirisima.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/w/a/wainwright-golden-beer_1_2.jpg",
+      "id": 200
+    },
+    {
+      "name": "Weihenstephaner Hefeweissbier",
+      "desc": "Zlatno-žuto pšenično pivo, sa mirisom klinčića. Da bi uživali u svakom trenutku izvrsno se slaže s ribom i plodovima mora, s pikantnim sirom i pogotovo s tradicionalnim bavarskim telećim kobasicama. Pivo prema stoljetnoj tradiciji proizvodnje piva na brdu Weihenstephan.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/w/e/weihenstephaner-hefe-weissbier_1_1_1.jpg",
+      "id": 201
+    },
+    {
+      "name": "Weihenstephaner Vitus",
+      "desc": "Weihenstephaner Vitus je jako, svijetlo pšenično pivo začinskih nota i kremozne pjene, zasićeno finim kvascem. Vitus je specijalitet pivovare čiji je zaokruženi karakter baziran na iznimno dugom odležavaju piva. Voćni miris suhih marelica susreće citruse, klinčić i nagovještaj banane. Punog je tijela i pjenušavo na nepcu, no vrlo pitko tako da ne podsjeća na tipično, jako Bock pivo. Odlično se sljubljuje s mesnim odrescima, jakim sirevima a može ići i uz određene deserte.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/w/e/weihenstephaner-vitus_1_1_1.jpg",
+      "id": 202
+    },
+    {
+      "name": "Westmalle Dubbel",
+      "desc": "Westmalle Dubbel je crvenkasto-smeđe samostansko pivo sa sekundarnim vrenjem u boci. Kremasta pjena ima miris posebnog slada i ostavlja atraktivan uzorak u čaši. Okus je bogat i kompleksan, začinjen i voćni, sa svježe-gorkim završetkom. To je uravnoteženo pivo koje ostavlja meki okus u ustima sa dugim suhim završetkom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/w/e/westmalle-dubbel_1_1.jpg",
+      "id": 203
+    },
+    {
+      "name": "Westmalle Tripel",
+      "desc": "Mekan i kremast u ustima, s gorkim dodirom voćnih aroma. Izuzetan ale, s velikom dozom finoće i elegancije.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/w/e/westmalle-tripel_1_1_1.jpg",
+      "id": 204
+    },
+    {
+      "name": "Wychwood Hobgoblin",
+      "desc": "Hobgoblin je tradicionalno englesko rubin Ale pivo proizvedeno od čokoladnog i „Crystal“ slada i mješavine Styrian Golding i Fuggle hmeljeva, čime je dobivena punoća tijela i sladno-čokoladna toffee aroma zaokružena umjerenom gorčinom i voćnim karakterom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/w/y/wychwood-hobgoblin_1_1.jpg",
+      "id": 205
+    },
+    {
+      "name": "Wychwood Hobgoblin Gold",
+      "desc": "Dok zlato može biti svjetlije boje, definitivno nemože biti lakše. Na 4,5% abv, kombinacija četiri vrste hmelja i infuzija pšeničnog i ječmenog slada rezultiralo je savršeno zlatnim pivom - sa golemim udarcem hmelja. Krivnja je zlatno osvježenje. Pa što ste očekivali?",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/w/y/wychwood-hobgoblin-gold_1_1.jpg",
+      "id": 206
+    },
+    {
+      "name": "Wychwood King Goblin",
+      "desc": "Kralj Goblin“ je pivo koje se pravi samo na \"pun mjesec\". To je „ručno rađeno“ pivo od prženog čokoladnog i Crystal slada, uz infuzije hmeljeva Fuggles, Sovereign, Styrian i Cascade, čime se dobiva bogato i mekano pivo punog tijela, voćnog karaktera i izvanredne kvalitete.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/w/y/wychwood-king-goblin_1_1_1.jpg",
+      "id": 207
+    },
+    {
+      "name": "Youngs Double Chocolate Stout",
+      "desc": "Čokoladni slad i prava tamna čokolada u kombinaciji s Youngovim nagrađivanim tamnim pivom.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/y/o/youngs-double-chocolate-stout.jpg",
+      "id": 208
+    },
+    {
+      "name": "Zeppelin Merkat",
+      "desc": "Nježan kao Merkatovo krzno na dodir, držat će vas na prstima za novu rundu svojim blagim okusom i mirisom. Ale umjerene gorčine i vrlo pitko, pivo za piti svaki dan i više komada.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/z/e/zeppelin-merkat.jpg",
+      "id": 209
+    },
+    {
+      "name": "Zeppelin Ra-Koon",
+      "desc": "Šest vrsta specijalnih sladova ovom pivu punog tijela daju čokoladno-kavastu kompleksnost s natruhama suhog voća u okusu i aromi.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/z/e/zeppelin-ra-koon.jpg",
+      "id": 210
+    },
+    {
+      "name": "Zmajska Pivovara Pale Ale",
+      "desc": "Premda nosi naziv pale, pouzdano znamo da jedinstveni okus ovog piva ne blijedi lako. Kombinacijom četiri sorte hmelja iz Novog svijeta dobili smo osvježavajuće mirise manga i citrusa karakteristične za ovo pivo punog tijela i ugodne gorčine.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/z/m/zmajska-pivovara-pale-ale_1_1.jpg",
+      "id": 211
+    },
+    {
+      "name": "Zmajska Pivovara Pils",
+      "desc": "Tajna ovog opako pitkog pilsnera savršen je omjer svježine i gorčine, cvjetne arome hmelja i naglašene sladne note - dobivene od ječma okupanog slavonskim suncem.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/z/m/zmajska-pivovara-pils.jpg",
+      "id": 212
+    },
+    {
+      "name": "Zmajska Pivovara Porter",
+      "desc": "Tamna čokolada, kava, suho voće i karamela. Ne, to nisu sastojci tvog omiljenog kolača. To su mirisi i okusi ovog jakog i skladnog piva klasičnog engleskog stila. Šest vrsta specijalnih sladova dopunili smo plemenitom sortom hmelja i dobili aromatično pivo ugodne gorčine.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/z/m/zmajska-pivovara-porter_1_1.jpg",
+      "id": 213
+    },
+    {
+      "name": "Zmajska Pivovara Pozoj",
+      "desc": "Puno hmelja i veći udio alkohola čuvali su pivo na dugim plovidbama iz Engleske prema Indiji. Tako je i nastao India Pale Ale.Snažna gorčina hmelja zmajski će ugristi tvoje nepce, a nos preplaviti aromama grejpa.",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/z/m/zmajska-pivovara-pozoj_1_1.jpg",
+      "id": 214
+    },
+    {
+      "name": "Zmajska Pivovara Therapy",
+      "desc": "Vrlo lagano i osvježavajuće pivo koje će vam jednako dobro sjesti na plaži i na poslovnom ručku. Udahnite tropske arome i odbacite sve probleme. Ponovite po potrebi!",
+      "image": "https://promili.hr/pub/media/catalog/product/cache/046b479684202195b97dee62bcd28f7f/z/m/zmajska-pivovara-therapy.jpg",
+      "id": 215
+    }
+  ]
+}
