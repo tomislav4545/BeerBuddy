@@ -36,7 +36,6 @@ fun BeerCard(
             AsyncImage(
                 model = beerCardViewState.image,
                 contentDescription = null,
-                contentScale = ContentScale.Crop
             )
             FavoriteButton(
                 isFavorite = beerCardViewState.isFavorite,
