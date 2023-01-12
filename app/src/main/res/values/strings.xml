@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BeerBuddy</string>
+    <string name="favorites">Favorites</string>
+    <string name="home">Home</string>
+    <string name="nema_piva">Nema piva u favoritima.</string>
+    <string name="nije_pronadeno_pivo">Nije pronađeno nijedno pivo.</string>
+</resources>
